@@ -63,6 +63,17 @@ body {
 	width: 16px;
 }
 
+.error {
+	display: none;
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 14px;
+}
+
+.weather {
+	display: none;
+}
 
 .weather-icon {
 	width: 170px;
